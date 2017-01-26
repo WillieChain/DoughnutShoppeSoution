@@ -1,0 +1,11 @@
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\bin\Debug\Doughnut Shoppe Project.exe.config
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\bin\Debug\Doughnut Shoppe Project.exe
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\bin\Debug\Doughnut Shoppe Project.pdb
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\bin\Debug\Doughnut Shoppe Project.xml
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut Shoppe Project.vbprojResolveAssemblyReference.cache
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut_Shoppe_Project.Form1.resources
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut_Shoppe_Project.Resources.resources
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut Shoppe Project.vbproj.GenerateResource.Cache
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut Shoppe Project.exe
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut Shoppe Project.xml
+C:\Users\Willie\Documents\Willie School\BINF VB\Doughnut Shoppe Soution\Doughnut Shoppe Project\obj\Debug\Doughnut Shoppe Project.pdb
